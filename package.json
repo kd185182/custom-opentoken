@@ -1,0 +1,34 @@
+{
+  "name": "@dbk-nestjs/custom-opentoken",
+  "version": "1.3.0",
+  "description": "OpenToken support for Node.JS",
+  "main": "opentoken.js",
+  "scripts": {
+    "test": "node test/opentoken_test.js && node test/token_test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kd185182/custom-opentoken.git"
+  },
+  "keywords": [
+    "authentication",
+    "passport",
+    "opentoken",
+    "custom",
+    "token",
+    "security"
+  ],
+  "author": "kd185182",
+  "contributors": [
+    "Darren DeRidder (original author)",
+    "Airic Yu <airic.yu@gmail.com>",
+    "Jan Taylor <jantaylor@users.noreply.github.com>",
+    "Fabian Foerg <28877604+faf0-addepar@users.noreply.github.com>"
+  ],
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kd185182/custom-opentoken/issues"
+  },
+  "homepage": "https://github.com/kd185182/custom-opentoken",
+  "dependencies": {}
+}
