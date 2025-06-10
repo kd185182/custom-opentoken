@@ -33,9 +33,9 @@ yarn add @dbk-nestjs/custom-opentoken
 
 ### Step 1: Make Your Changes
 
-1. **Create a feature branch:**
+1. **Checkout to main branch:**
    ```bash
-   git checkout -b feature/your-feature-name
+   git checkout main
    ```
 
 2. **Make your code changes**
@@ -48,7 +48,7 @@ yarn add @dbk-nestjs/custom-opentoken
 4. **Commit your changes:**
    ```bash
    git add .
-   git commit -m "feat: your feature description"
+   git commit -m "Your description"
    ```
 
 ### Step 2: Version Bump
